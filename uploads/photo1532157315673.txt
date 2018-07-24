@@ -1,0 +1,29 @@
+                                                             28/03/18
+website: static pages only
+web_application:dnamic+static pages
+
+                                                             30/03/18
+
+JAVA_SEVLET
+
+
+servlets are used to provide thread functionality of java in an apropriate way, with this memory consumption becomes low and server
+can provide its services in a most appropriate way.
+
+ Each time a new request get generated a new thread gets generated.
+its a java technology componnent that runs on server.
+1)processes http requests 
+2)generates dynamic response
+
+
+advantages of JSP technology:
+
+
+1)  provide high performance and scalability because threads are used.
+2)  is built on JAVA technology ,so it is platform-independent.
+3)  take advantage of oops lang and its API's.
+
+validation of jsp pages is done by controller on server side.
+
+
+                                                            31/03/18
